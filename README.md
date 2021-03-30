@@ -11,7 +11,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-papers-for-Engineering-students/blob/master/t(4).pdf" style="text-decoration:none;">The Google File System</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-papers-for-Engineering-students/blob/master/t(5).pdf" style="text-decoration:none;">A Common Substrate for Cluster Computing</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-papers-for-Engineering-students/blob/master/t(6).pdf" style="text-decoration:none;">Kafka: a Distributed Messaging System for Log Processing</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Technical-papers-for-Engineering-students/blob/master/t(7).pdf" style="text-decoration:none;">MapReduce: Simplied Data Processing on Large Clusters</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-papers-for-Engineering-students/blob/master/t(7).pdf" style="text-decoration:none;">MapReduce: Simplified Data Processing on Large Clusters</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-papers-for-Engineering-students/blob/master/t(8).pdf" style="text-decoration:none;"> Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center </a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Technical-papers-for-Engineering-students/blob/master/t(9).pdf" style="text-decoration:none;">Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing</a></li>
